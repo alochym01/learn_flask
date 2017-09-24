@@ -1,6 +1,6 @@
 # learn_flask
 
-## __init__.py 
+## `__init__.py `
     Tells Python to use the app/ directory as a python package
 ## app.py
     The Flask app
