@@ -10,4 +10,5 @@
     Entry-point for executing our application
 ## views.py
     URL routes and views for the app
+## Flask Flow import
 ![Image of Flask Flow](https://raw.githubusercontent.com/alochym01/learn_flask/master/flask_flow.png)
