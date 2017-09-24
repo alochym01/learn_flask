@@ -11,4 +11,4 @@
 ## views.py
     URL routes and views for the app
 ![Image of Flask Flow]
-(flow.png?raw=true)
+(flask_flow.png.png?raw=true)
